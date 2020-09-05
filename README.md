@@ -1,7 +1,3 @@
-# Personal Website files.
+# Personal Wbesite template
 
-My very own website with netlify and Github.
-If you are readig this you are a contributor to this website or repos since it is a private repository.
-Template of the website is available on my github profile.
-
-link - kapoor-aryan.netlify.app
+## This is almost the exact copy of my. While I have removed all the personal stuff, you can basically fork or template it.
