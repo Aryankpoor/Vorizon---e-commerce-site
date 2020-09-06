@@ -1,3 +1,3 @@
-# Personal Website template
+## Github Pages
 
-### This is almost the exact copy of my site. While I have removed all the personal stuff, you can basically fork or template it.
+### My first github pages site
