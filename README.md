@@ -8,7 +8,7 @@
 
 ## I have gathered assets and information from a variety of sources:
 
-### ***some of them are: ***
+### ***some of them are:***
 
 
 ```
