@@ -2,8 +2,18 @@
 
 ### My first github pages site
 
+# This is a sample project in which I have create a website with information about all android versions over time.
 
-### This site looks exactly like my site https://kapoor-aryan.netlify.app
+![image](https://img.icons8.com/cute-clipart/64/000000/android.png)
 
-### But it is iframed and my site is hosted with github pages:
-***theme: minimal***
+## I have gathered assets and information from a variety of sources:
+
+### ***some of them are: ***
+
+
+```
+icons from: https://icons8.com
+https://www.android.com
+```
+
+
