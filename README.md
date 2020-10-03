@@ -1,6 +1,6 @@
-## Github Pages
+## Vorizon - The one of it's kind - ecommerce site
 
-### My first github pages site
+
 
 
 
