@@ -1,7 +1,7 @@
 # Instructions 
 
 ## Contributions 
-All contributions should be valid for the pull request to be merged. Invalid contributions ccan be taken seriously and if the behaviours continues , the user may 
+All contributions should be valid for the pull request to be merged. Invalid contributionscan be taken seriously and if the behaviours continues , the user may 
 even be denied access to the repository.
 ### Valid contributions include:
 - **Fixing a typo**
@@ -14,6 +14,7 @@ even be denied access to the repository.
 - **Removing an empty line in the code**
 - **Adding malicious code**
 - **Removing good code**
+- **Unecessary PRs and issues**
 
 ## Feature Requests
 Feature requests can include requests for non-existing features. While if the feature is not possible it may already be instructed by readme or the site itself. You may receive a notification. Or please check the issues tab it might be possible that the feature is in progress.
