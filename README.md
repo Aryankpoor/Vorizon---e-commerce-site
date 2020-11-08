@@ -7,3 +7,6 @@
 ## Before you start using the site, 
 This site was only meant for development purposes, there is no real purchase of products, do not accidently give out your confidential details. They are very important.
 
+<hr>
+
+This site is still in development, contribute and help others contribute, spread the word!
