@@ -1,5 +1,7 @@
 # Instructions 
 
+Instructions are mainly for beginners and do not follow any different guidelines from the **usual community guidelines**.
+
 ## Contributions 
 All contributions should be valid for the pull request to be merged. Invalid contributionscan be taken seriously and if the behaviours continues , the user may 
 even be denied access to the repository.
