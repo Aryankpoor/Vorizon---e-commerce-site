@@ -16,3 +16,5 @@ This site was only meant for development purposes, there is no real purchase of 
 This site is still in development, contribute and help others contribute, spread the word!
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) 
+
+note: the icons folder is for images
