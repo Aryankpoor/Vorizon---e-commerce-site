@@ -18,3 +18,5 @@ This site is still in development, contribute and help others contribute, spread
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) 
 
 **note: the icons folder is for images**
+
+Special thanks to ompmega for their valuable contribution to the repo. View their codepen account.
