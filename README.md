@@ -19,4 +19,5 @@ This site is still in development, contribute and help others contribute, spread
 
 **note: the icons folder is for images**
 
-Special thanks to ompmega for their valuable contribution to the repo. View their codepen account.
+site link: https://aryankpoor.github.io/Vorizon---e-commerce-site/
+
