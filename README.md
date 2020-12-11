@@ -30,6 +30,8 @@ there will be no in real life delivery of the product so don't expect a product 
 
 Also a sample product card is online on https://adkalus.netlify.app/ so you can check out the sample card and just have an idea of how the website will look.
 
+And there is ony one branch , there is no test or secondry branch 
+
 HAPPY CODING!
 
 
