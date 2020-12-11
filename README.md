@@ -28,4 +28,8 @@ The idea of the site is that on the home page will have a bunch of links to diff
 
 there will be no in real life delivery of the product so don't expect a product delivery to any address you entered. Also the form details entered are not being used in any way by vorizon.
 
-HAPPY CODING
+Also a sample product card is online on https://adkalus.netlify.app/ so you can check out the sample card and just have an idea of how the website will look.
+
+HAPPY CODING!
+
+
