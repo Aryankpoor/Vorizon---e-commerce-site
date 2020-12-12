@@ -4,7 +4,7 @@
 [![GitHub version](https://badge.fury.io/gh/Naereen%2FStrapDown.js.svg)](https://github.com/Naereen/StrapDown.js)
 
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
-![vorizon](https://github.com/Aryankpoor/e-commerce-site/blob/master/assets/app.png)
+
 
 > To contribute to the site , please read the code of conduct in instructions.md
 
@@ -17,7 +17,7 @@ This site is still in development, contribute and help others contribute, spread
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) 
 
-**note: the icons folder is for images**
+**note: the assets folder are folders which contain images of different topics in their name respectively**
 
 
 
@@ -28,9 +28,8 @@ The idea of the site is that on the home page will have a bunch of links to diff
 
 there will be no in real life delivery of the product so don't expect a product delivery to any address you entered. Also the form details entered are not being used in any way by vorizon.
 
-Also a sample product card is online on https://adkalus.netlify.app/ so you can check out the sample card and just have an idea of how the website will look.
 
-And there is ony one branch , there is no test or secondry branch 
+And there is ony one branch , there is no test or secondry branch so kind of be careful before making a PR, you know what I mean:wink:
 
 HAPPY CODING!
 
