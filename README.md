@@ -19,7 +19,7 @@ This site is still in development, contribute and help others contribute, spread
 
 **note: the icons folder is for images**
 
-site link: https://aryankpoor.github.io/Vorizon---e-commerce-site/
+
 
 The idea of the site is that on the home page will have a bunch of links to different products, the user will click on their preffered choice of card and then will land on the respective card , the site will show a very beautiful product card, thanks to developedbyed youtube channel and other bunch of youtube channels, but there is one catch, when you reach the product card you cant choose the product size. When the user clicks 'PURCHASE'. The user is redirected to another site with their product details and a random order number. You can fill your details in the delivery form but 
 
