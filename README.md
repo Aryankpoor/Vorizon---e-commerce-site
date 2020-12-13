@@ -12,7 +12,7 @@ This site was only meant for development purposes, there is no real purchase of 
 <hr>
 
 This site home page has been made and while the product cards are still a work in progress, contribute and help others contribute, spread the word!
-For each product card, I have already made a github repo, check them all out
+
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) 
 
