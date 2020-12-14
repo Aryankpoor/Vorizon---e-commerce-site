@@ -10,6 +10,9 @@
 This site was only meant for development purposes, there is no real purchase of products
 
 <hr>
+For each product (total:60) I have created a product card. While 36 of them are in the folder 'products', I accidently uploaded the rest of them in the main folder of the repo
+Main is not a folder, you know what I mean
+
 
 This site home page has been made and so are the product cards. While the purchase page is still a work in progress, so spread the word.
 
