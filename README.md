@@ -7,11 +7,11 @@
 > To contribute to the site , please read the code of conduct in instructions.md
 
 ## Before you start using the site, 
-This site was only meant for development purposes, there is no real purchase of products, do not accidently give out your confidential details. They are very important.
+This site was only meant for development purposes, there is no real purchase of products
 
 <hr>
 
-This site home page has been made and while the product cards are still a work in progress, contribute and help others contribute, spread the word!
+This site home page has been made and so are the product cards. While the purchase page is still a work in progress, so spread the word.
 
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) 
