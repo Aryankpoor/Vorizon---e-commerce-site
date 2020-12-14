@@ -19,15 +19,8 @@ This site home page has been made and while the product cards are still a work i
 **note: the assets folder are folders which contain images of different topics in their name respectively**
 **the icons folder contains the site icon and purchase successful icon**
 
-The idea of the site is that on the home page will have a bunch of links to different products, the user will click on their preffered choice of card and then will land on the respective card , the site will show a very beautiful product card, but there is one catch, when you reach the product card you cannot choose the product size. When the user clicks 'PURCHASE'. The user is redirected to another site with their product details and a random order number. You can fill your details in the delivery form but 
+The idea of the site is that on the home page will have a bunch of links to different products, the user will click on their preffered choice of card and then will land on the respective card , the site will show a very beautiful product card, but there is one catch, when you reach the product card you cannot choose the product size. When the user clicks on 'buy for $xxx price' the user is redirected to a fake card payment initiation site to vorizon and just confirms the card payment. Then the user is redirected to an imaginary order delivery tracker. there will be no in real life delivery of the product so don't expect a product delivery to any address you entered. Also the form details entered are not being used in any way by vorizon.
 
-  
-## WARNING : DO **'NOT'** SHARE YOUR REAL LIFE PERSONAL DETAILS AND CARD AND FINANCIAL DETAILS. THEY ARE CONFIDENTIAL AND CAN BE STOLEN BY ONLINE HACKERS. THE SITE IS NOT RESPONSIBLE IF THEIR PERSONAL DETAILS ARE STOLEN ONLINE THROUGH THE SITE
-
-there will be no in real life delivery of the product so don't expect a product delivery to any address you entered. Also the form details entered are not being used in any way by vorizon.
-
-
-And there is ony one branch , there is no test or secondry branch so kind of be careful before making a PR, you know what I mean:wink:
 
 HAPPY CODING!
 
