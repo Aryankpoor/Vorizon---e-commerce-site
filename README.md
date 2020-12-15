@@ -24,6 +24,7 @@ This site home page has been made and so are the product cards. While the purcha
 
 The idea of the site is that on the home page will have a bunch of links to different products, the user will click on their preffered choice of card and then will land on the respective card , the site will show a very beautiful product card, but there is one catch, when you reach the product card you cannot choose the product size. When the user clicks on 'buy for $xxx price' the user is redirected to a fake card payment initiation site to vorizon and just confirms the card payment. Then the user is redirected to an imaginary order delivery tracker. there will be no in real life delivery of the product so don't expect a product delivery to any address you entered. Also the form details entered are not being used in any way by vorizon.
 
+Visit the order delivery tracker [here](https://deli-tr.vercel.app/)
 
 HAPPY CODING!
 
