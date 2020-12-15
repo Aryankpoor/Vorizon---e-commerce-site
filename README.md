@@ -10,9 +10,9 @@
 This site was only meant for development purposes, there is no real purchase of products
 
 <hr>
-For each product (total:60) I have created a product card. While 36 of them are in the folder 'products', I accidently uploaded the rest of them in the main folder of the repo
-Main is not a folder, you know what I mean
+For each product (total:60) I have created a product card. Each product card is hosted online using netlify
 
+Also for each product I am right now making an payment initiation card and order delivery tracker card
 
 This site home page has been made and so are the product cards. While the purchase page is still a work in progress, so spread the word.
 
@@ -20,7 +20,7 @@ This site home page has been made and so are the product cards. While the purcha
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) 
 
 **note: the assets folder are folders which contain images of different topics in their name respectively**
-**the icons folder contains the site icon and purchase successful icon**
+**the icons folder contains the site icon**
 
 The idea of the site is that on the home page will have a bunch of links to different products, the user will click on their preffered choice of card and then will land on the respective card , the site will show a very beautiful product card, but there is one catch, when you reach the product card you cannot choose the product size. When the user clicks on 'buy for $xxx price' the user is redirected to a fake card payment initiation site to vorizon and just confirms the card payment. Then the user is redirected to an imaginary order delivery tracker. there will be no in real life delivery of the product so don't expect a product delivery to any address you entered. Also the form details entered are not being used in any way by vorizon.
 
