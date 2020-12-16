@@ -12,9 +12,7 @@ This site was only meant for development purposes, there is no real purchase of 
 <hr>
 For each product (total:60) I have created a product card. Each product card is hosted online using netlify
 
-Also for each product I am right now making an payment initiation card and order delivery tracker card
-
-This site home page has been made and so are the product cards. While the purchase page is still a work in progress, so spread the word.
+Also for each product I have made a product card and purchase card. The site is now made and you can visit it.
 
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) 
