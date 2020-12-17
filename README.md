@@ -26,4 +26,6 @@ Visit the order delivery tracker [here](https://deli-tr.vercel.app/)
 
 HAPPY CODING!
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/45c0c4c9-7199-498b-b236-512071db28e2/deploy-status)](https://app.netlify.com/sites/vorizon/deploys)
+
 
