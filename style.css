@@ -225,8 +225,8 @@ html {
 }
 
 .img {
-    width: 100px;
-    height: 250px;
+    width: auto;
+    height: auto;
 }
 
 .la {
