@@ -223,3 +223,18 @@ html,body,div,span,applet,object,iframe,
 html {
     scroll-behavior: smooth;
 }
+
+.img {
+    width: 100px;
+    height: 250px;
+}
+
+.la {
+    width: auto;
+    height: auto;
+}
+
+.im2 {
+    width: auto;
+    height: auto;
+}
