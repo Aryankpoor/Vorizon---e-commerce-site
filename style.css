@@ -37,12 +37,12 @@ html,body,div,span,applet,object,iframe,
         content:’’;
         content:none;
     }
-    /* remember to define visible focus styles! 
+    /* 
     :focus{
         outline:?????;
     } */
     
-    /* remember to highlight inserts somehow! */
+    
     ins{
         text-decoration:none;
     }
@@ -69,7 +69,7 @@ html,body,div,span,applet,object,iframe,
         background-color: #f6f6f6;
     }
     
-    /* Typography */
+    
     
     h1 {
         font-size: 28px;
@@ -225,16 +225,19 @@ html {
 }
 
 .img {
-    width: auto;
-    height: auto;
+    width: 300px;
+    height: 250px;
+    border-radius: 10%;
 }
 
 .la {
-    width: auto;
-    height: auto;
+    width: 200px;
+    height: 800px;
+    border-radius: 10%;
 }
 
 .im2 {
-    width: auto;
-    height: auto;
+    width: 300px;
+    height: 250px;
+    border-radius: 10%;
 }
