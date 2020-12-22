@@ -241,3 +241,7 @@ html {
     height: 250px;
     border-radius: 10%;
 }
+
+.product-image:hover {
+  transform: scale(1.5); 
+}
