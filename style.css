@@ -245,4 +245,5 @@ html {
 .product-image:hover {
   transform: scale(1.5); 
   transition: ease-in-out;
+  transition-duration: 0.5s;
 }
