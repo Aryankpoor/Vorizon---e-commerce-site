@@ -28,3 +28,4 @@ HAPPY CODING!
 [![Netlify Status](https://api.netlify.com/api/v1/badges/45c0c4c9-7199-498b-b236-512071db28e2/deploy-status)](https://app.netlify.com/sites/vorizon/deploys)
 
 
+## Please note some major ui changes are staged to be made. All ui ideas are welcome. Just make an issue and share the figma link or example
