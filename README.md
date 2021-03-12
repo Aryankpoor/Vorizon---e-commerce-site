@@ -30,4 +30,4 @@ HAPPY CODING!
 
 ## Please note some major ui changes are staged to be made. All ui ideas are welcome. Just make an issue and share the figma link or example
 
-Also please notice that the backup branch is for backup in case I mess up with my site somehow, so I can always merge backup to master so that I can restore my site to original version. This branch is not to be touched
+The test branch is where all the changes are made and are merged with the original project, the master branch.
