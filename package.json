@@ -1,0 +1,27 @@
+{
+  "name": "vorizon---e-commerce-site",
+  "version": "1.0.0",
+  "description": "the new remastered vorion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aryankpoor/Vorizon---e-commerce-site.git"
+  },
+  "keywords": [
+    "vorizon"
+  ],
+  "author": "Aryan Kapoor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Aryankpoor/Vorizon---e-commerce-site/issues"
+  },
+  "homepage": "https://github.com/Aryankpoor/Vorizon---e-commerce-site#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.14",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.1.0"
+  }
+}

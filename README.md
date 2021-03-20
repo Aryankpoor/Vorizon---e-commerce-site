@@ -29,3 +29,5 @@ HAPPY CODING!
 
 
 ## Please note some major ui changes are staged to be made. All ui ideas are welcome. Just make an issue and share the figma link or example
+
+The test branch is where all the changes are made and are merged with the original project, the master branch.
